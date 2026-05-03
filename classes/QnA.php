@@ -2,7 +2,7 @@
 
 namespace otazkyodpovede;
 
-use db\Database;
+use Database;
 use PDOException;
 
 error_reporting(E_ALL);
